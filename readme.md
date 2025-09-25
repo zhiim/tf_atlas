@@ -1,4 +1,4 @@
-另见博文[在Atlas 200 DK中部署深度学习模型](https://xland.cyou/p/deploy-deep-learning-model-on-atlas/)
+另见博文[在Atlas 200 DK中部署深度学习模型](https://zhiim.github.io/p/deploy-deep-learning-model-on-atlas/)
 
 # 在Atlas 200 DK中部署深度学习模型
 
